@@ -1,2 +1,5 @@
 # log-archive-staging
-Configuration management system
+
+> Internal build artifact storage
+
+Automatically managed by CI/CD pipeline. Do not modify manually.
